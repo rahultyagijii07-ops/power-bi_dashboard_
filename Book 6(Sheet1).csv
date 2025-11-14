@@ -1,0 +1,804 @@
+Empid,Name,department ,job role,age,education,joining date,salary,experience,Attrition,Attendence,project done,Traning hour,customer rating,Column1
+emp001,Krishna,Human Resources (HR),,39,MBA,9/26/2017,83207,3,No,91,3,45,5,72
+emp002,Govinda,Finance,,43,BBA,5/31/2020,27093,12,No,79,1,29,3.5,51
+emp003,Gopala,Sales,,37,B.Com,3/10/2017,71843,7,No,91,3,19,4.9,67
+emp004,Madhusudana,Marketing,,41,BBA,3/16/2020,46821,11,No,92,2,42,4.5,66
+emp005,Vasudeva,Information Technology (IT),,25,BBA,4/19/2020,48468,10,No,71,9,43,2.7,66
+emp006,Hari,Administration,,39,B.Tech,1/2/2015,70538,5,No,85,2,18,4.3,59
+emp007,Keshava,Operations,,31,B.Com,4/1/2022,28119,3,No,86,8,22,4.1,74
+emp008,Damodara,Customer Service,,36,M.Tech,1/11/2016,32449,6,No,97,10,8,3.3,74
+emp009,Shyam,Research and Development (R&D),,32,B.Com,5/23/2022,70882,1,No,92,8,34,4.7,81
+emp010,Mohan,Procurement / Purchase,,44,B.Com,12/20/2018,43034,14,No,91,1,26,4.2,59
+emp011,Murari,Production / Manufacturing,,29,B.Tech,11/17/2017,44170,9,Yes,84,3,15,4.3,61
+emp012,Giridhari,Quality Assurance (QA),,37,MBA,4/26/2023,62545,8,Yes,85,10,13,4.4,79
+emp013,Jagannatha,Logistics / Supply Chain,,28,M.Tech,6/7/2017,82031,2,Yes,83,1,28,4,55
+emp014,Parthasarthi,Legal,,39,BBA,4/29/2019,26629,2,Yes,71,8,38,3.6,69
+emp015,Yashodanandana,Public Relations (PR),,31,MCA,7/26/2017,68624,5,Yes,89,1,14,5,62
+emp016,Nandanandana,Training and Development,,41,MCA,11/20/2019,54464,2,Yes,71,3,43,3.7,58
+emp017,Devakinandana,Business Development,,23,B.Com,7/31/2022,58592,10,No,95,1,29,2.8,50
+emp018,Kanha,Maintenance,,35,MBA,11/6/2020,71649,1,No,84,9,35,3.8,75
+emp019,Kanhaiya,Security,,36,B.Tech,4/30/2022,68627,10,No,98,3,46,2.9,59
+emp020,Makhan Chor,Design / Creative,,28,M.Tech,5/10/2016,44327,2,No,73,8,29,3.7,69
+emp021,Bala Krishna,Human Resources (HR),,45,MCA,7/12/2015,60671,4,Yes,89,9,22,2.8,68
+emp022,Gopinatha,Finance,,40,B.Tech,11/3/2021,28457,8,No,80,4,45,3.9,64
+emp023,Mukunda,Sales,,39,MBA,2/19/2015,44190,13,Yes,72,4,14,3.4,54
+emp024,Radhika Raman,Marketing,,44,B.Tech,9/26/2020,75814,8,Yes,76,10,30,3.9,76
+emp025,Banke Bihari,Information Technology (IT),,44,BBA,12/8/2020,79220,4,No,76,2,22,4.6,60
+emp026,Venu Gopala,Administration,,23,M.Tech,12/13/2020,58234,10,No,81,4,11,2.5,49
+emp027,Ranchod,Operations,,37,BBA,8/10/2021,79917,4,No,98,10,7,3.3,74
+emp028,Dwarkadheesh,Customer Service,,27,MCA,4/12/2020,68041,5,No,94,2,30,3,54
+emp029,Shrinathji,Research and Development (R&D),,25,MCA,10/13/2021,49344,14,No,71,3,13,3.5,52
+emp030,Muralidhara,Procurement / Purchase,,32,BBA,8/13/2019,34344,13,Yes,84,8,42,4.1,76
+emp031,Chittachora,Production / Manufacturing,,36,MBA,11/5/2024,55888,6,Yes,85,5,9,4.7,68
+emp032,Nandalala,Quality Assurance (QA),,29,M.Tech,1/31/2020,68241,6,No,75,1,22,3.8,51
+emp033,Tribhuvan Sundara,Logistics / Supply Chain,,44,B.Tech,1/26/2017,68259,8,Yes,97,3,50,3.3,62
+emp034,Hrishikesha,Legal,,25,BBA,3/6/2019,32815,7,No,83,10,5,3.5,71
+emp035,Jagadguru,Public Relations (PR),,30,M.Tech,5/17/2017,36253,15,No,78,10,28,2.7,68
+emp036,Yogeshwara,Training and Development,,38,M.Tech,3/7/2018,75616,12,No,100,6,37,3.1,67
+emp037,Purushottama,Business Development,,39,B.Com,2/21/2021,27664,15,Yes,92,7,38,4.6,78
+emp038,Madhava,Maintenance,,34,B.Tech,2/28/2019,32879,8,Yes,73,6,39,3.9,66
+emp039,Achyuta,Security,,39,B.Tech,4/19/2015,56688,14,No,94,2,29,2.7,52
+emp040,Ananta,Design / Creative,,39,B.Com,5/23/2016,32543,12,No,87,7,7,3.2,63
+emp041,Adhokshaja,Human Resources (HR),,42,B.Com,4/17/2023,52836,7,No,80,9,17,3.2,67
+emp042,Janardana,Finance,,38,MCA,11/23/2022,66803,11,Yes,70,5,10,3.4,55
+emp043,Padmanabha,Sales,,21,B.Tech,11/1/2016,63980,1,Yes,93,5,5,3.5,61
+emp044,Narayana,Marketing,,35,M.Tech,4/15/2022,27864,9,No,77,3,42,3.1,55
+emp045,Vishnu,Information Technology (IT),,26,BBA,9/27/2023,58679,13,No,95,1,36,3.8,58
+emp046,Chakradhari,Administration,,21,M.Tech,5/12/2015,52376,3,No,77,8,6,4,68
+emp047,Gadadhara,Operations,,25,B.Tech,11/21/2024,34548,13,Yes,94,5,18,3,60
+emp048,Trivikrama,Customer Service,,28,MCA,1/18/2016,28054,7,No,75,10,44,2.5,68
+emp049,Vamana,Research and Development (R&D),,22,B.Tech,7/22/2016,26895,14,No,84,7,15,3.2,63
+emp050,Shrivatsa,Procurement / Purchase,,27,B.Tech,2/11/2021,67700,5,Yes,89,6,38,4.7,76
+emp051,Bal Gopal,Production / Manufacturing,,35,BBA,12/20/2022,57861,7,Yes,72,1,21,3.6,49
+emp052,Natkhat Nandlal,Quality Assurance (QA),,40,MBA,1/25/2017,28813,1,No,70,4,8,3.4,53
+emp053,Laddoo Gopal,Logistics / Supply Chain,,28,BBA,5/17/2015,75039,10,No,91,8,21,3.9,73
+emp054,Kanhaiya Lal,Legal,,44,B.Tech,10/11/2015,31442,2,No,91,9,21,4.6,81
+emp055,Vrindavan Chandra,Public Relations (PR),,43,B.Tech,12/27/2024,71925,9,No,70,6,44,4.1,68
+emp056,Radharaman,Training and Development,,32,BBA,6/26/2017,28476,11,Yes,86,7,12,4.4,72
+emp057,Radha Vallabh,Business Development,,26,MCA,9/23/2020,51946,13,No,93,3,10,4.1,61
+emp058,Radheshyam,Maintenance,,39,M.Tech,3/24/2019,63392,14,Yes,89,6,6,3.2,61
+emp059,Manmohan,Security,,22,B.Com,2/24/2016,83649,15,No,76,5,50,3.9,66
+emp060,Mohana Murari,Design / Creative,,22,M.Tech,2/11/2024,28886,12,No,92,3,39,3.1,58
+emp061,Vrajendra Nandana,Human Resources (HR),,27,B.Tech,7/7/2022,78518,1,No,81,6,41,3.6,67
+emp062,Gauranga,Finance,,29,B.Tech,12/15/2023,65394,8,No,100,4,49,3,63
+emp063,Dayanidhi,Sales,,42,B.Tech,10/7/2015,54974,13,No,81,5,26,3.7,63
+emp064,Sharanagata Vatsala,Marketing,,39,B.Tech,1/21/2020,41013,5,Yes,98,6,18,2.9,63
+emp065,Premmurti,Information Technology (IT),,32,MCA,8/25/2020,45917,1,No,94,2,20,3.4,55
+emp066,Anand Krishna,Administration,,44,MBA,12/10/2020,71378,13,No,80,4,26,3.6,59
+emp067,Rasika,Operations,,36,M.Tech,8/4/2016,41502,1,Yes,89,7,33,4.1,73
+emp068,Rasraj,Customer Service,,36,M.Tech,12/14/2021,77066,3,No,99,9,49,4.7,88
+emp069,Rasbihari,Research and Development (R&D),,39,B.Com,12/22/2020,67761,4,Yes,82,5,36,4.7,71
+emp070,Rasapriya,Procurement / Purchase,,38,B.Tech,6/1/2020,68209,6,No,96,8,36,5,84
+emp071,Rasamayi,Production / Manufacturing,,21,B.Com,9/28/2023,77440,3,No,72,8,38,3.4,68
+emp072,Swayam Bhagwan,Quality Assurance (QA),,41,M.Tech,6/11/2018,58224,8,No,74,5,44,3.4,61
+emp073,Atmarama,Logistics / Supply Chain,,21,M.Tech,12/28/2016,45398,5,No,70,9,8,4.6,73
+emp074,Sanatana,Legal,,42,MCA,6/9/2018,26155,13,Yes,85,4,23,3.3,58
+emp075,Satya,Public Relations (PR),,21,M.Tech,8/18/2021,81196,7,No,84,3,31,3.1,55
+emp076,Sundara,Training and Development,,37,B.Com,3/29/2016,54094,3,No,87,10,50,4.9,89
+emp077,Nitya,Business Development,,23,M.Tech,3/23/2018,49336,3,Yes,98,6,32,5,79
+emp078,Niranjana,Maintenance,,45,M.Tech,12/8/2021,56659,4,No,79,8,15,3.8,69
+emp079,Parameshwara,Security,,25,BBA,5/27/2019,58544,10,No,94,6,42,2.7,64
+emp080,Bhagavan,Design / Creative,,27,M.Tech,8/16/2016,68401,11,No,89,8,34,2.6,66
+emp081,Paramatma,Human Resources (HR),,45,B.Com,8/23/2018,66144,13,No,98,10,50,3.1,79
+emp082,Jagadisha,Finance,,36,MCA,8/21/2017,46461,7,Yes,100,6,36,3.7,71
+emp083,Devesha,Sales,,22,MCA,8/4/2016,29021,2,No,86,1,50,3.3,55
+emp084,Maheshwara,Marketing,,34,B.Com,2/14/2023,72193,8,No,83,7,26,4.2,72
+emp085,Chaturbhuja,Information Technology (IT),,42,B.Com,11/25/2024,42779,15,No,98,4,42,4.2,70
+emp086,Vishwaroopa,Administration,,40,B.Tech,1/31/2022,77653,1,Yes,85,4,44,4.5,69
+emp087,Pradyumna,Operations,,29,MBA,4/17/2021,69698,11,No,98,3,33,3.6,62
+emp088,Aniruddha,Customer Service,,41,B.Com,1/25/2022,39008,2,No,79,3,30,3.1,53
+emp089,Sankarshana,Research and Development (R&D),,33,M.Tech,6/19/2016,61017,15,No,83,5,7,3.4,58
+emp090,Baladeva,Procurement / Purchase,,24,BBA,11/11/2020,40559,4,No,89,6,6,4.3,68
+emp091,Prabhu,Production / Manufacturing,,42,B.Com,11/16/2021,28966,1,No,88,2,16,4.2,59
+emp092,Shree Hari,Quality Assurance (QA),,31,MBA,10/17/2017,83347,15,No,94,2,46,3,56
+emp093,Bhagya Vidhata,Logistics / Supply Chain,,29,B.Tech,12/29/2017,37997,7,Yes,80,8,20,3.8,70
+emp094,Shree Mukunda,Legal,,41,MCA,11/24/2017,54195,10,No,80,5,43,4.6,71
+emp095,Shree Vamana,Public Relations (PR),,26,MCA,2/4/2021,59216,9,No,74,4,8,3.3,53
+emp096,Yogendra,Training and Development,,27,BBA,3/4/2024,48077,2,No,88,2,7,4.3,58
+emp097,Vraj Kishore,Business Development,,32,M.Tech,6/23/2021,79569,15,No,86,2,22,2.9,50
+emp098,Madan Mohan,Maintenance,,40,M.Tech,9/30/2019,42401,3,No,83,1,48,3.3,54
+emp099,Gopi Vallabh,Security,,39,B.Com,5/29/2022,70928,8,Yes,72,4,31,2.5,50
+emp100,Shree Nanda Kumar,Design / Creative,,32,BBA,11/27/2019,36616,15,No,78,3,30,2.6,50
+emp101,Karuna Sindhu,Human Resources (HR),,25,B.Com,4/19/2018,76235,4,Yes,78,4,35,2.5,52
+emp102,Dina Bandhu,Finance,,20,B.Com,2/27/2020,37627,11,Yes,74,3,35,4.6,63
+emp103,Bhaktavatsala,Sales,,44,M.Tech,7/7/2016,70946,10,No,92,4,21,4.7,69
+emp104,Bhakta Priya,Marketing,,41,MCA,6/25/2024,70791,2,No,95,5,21,3.3,63
+emp105,Bhakta Rakshaka,Information Technology (IT),,39,MBA,6/6/2024,42847,7,Yes,86,3,14,4.6,63
+emp106,Bhakta Jana Priya,Administration,,36,B.Tech,6/8/2016,39437,10,No,80,7,44,4,72
+emp107,Jagat Pati,Operations,,28,B.Tech,2/26/2015,50322,7,No,76,6,6,4,63
+emp108,Lokanatha,Customer Service,,45,B.Tech,5/27/2023,25705,9,No,81,5,22,2.5,54
+emp109,Ishvara,Research and Development (R&D),,36,B.Com,9/19/2021,74467,9,No,72,8,50,3.1,67
+emp110,Daivat,Procurement / Purchase,,39,M.Tech,8/26/2022,84923,5,No,98,3,14,4.5,66
+emp111,Pundarikaksha,Production / Manufacturing,,45,B.Tech,8/16/2021,77819,2,No,74,7,39,3.6,67
+emp112,Shree Narottama,Quality Assurance (QA),,44,MBA,5/17/2024,29713,4,No,71,7,21,4.7,71
+emp113,Jagadbandhu,Logistics / Supply Chain,,33,B.Com,1/23/2019,70263,9,No,73,8,24,3.8,68
+emp114,Deva Deva,Legal,,26,MBA,2/24/2015,62777,15,No,88,5,14,2.9,57
+emp115,Vishwamitra,Public Relations (PR),,27,BBA,8/16/2021,61712,4,No,77,6,29,4.5,70
+emp116,Punyatma,Training and Development,,23,MCA,7/9/2021,71037,4,No,93,7,12,2.8,62
+emp117,Param Dayaalu,Business Development,,43,B.Tech,9/9/2016,38869,9,Yes,78,2,43,4,59
+emp118,Jaganmohana,Maintenance,,23,MCA,4/22/2020,45685,8,Yes,84,1,41,3.3,53
+emp119,Kamalnayana,Security,,22,B.Com,7/28/2015,42354,13,No,95,5,22,3.8,66
+emp120,Vishwarupa,Design / Creative,,30,MCA,9/6/2022,51604,11,No,90,6,23,4.6,73
+emp121,Dinesha,Human Resources (HR),,43,B.Com,2/17/2018,72754,13,Yes,79,1,36,3.4,51
+emp122,Vibhu,Finance,,23,BBA,1/18/2020,84835,4,No,89,3,6,2.6,49
+emp123,Pradyumna,Sales,,40,MBA,11/10/2019,41447,5,No,88,7,41,3.3,69
+emp124,Vasudevputra,Marketing,,20,M.Tech,5/16/2023,64826,10,No,96,6,12,3.1,63
+emp125,Govardhanadhari,Information Technology (IT),,38,B.Tech,4/11/2016,44501,8,No,73,6,12,4.4,66
+emp126,Vrishabhanu Priya,Administration,,35,B.Com,11/8/2018,74362,7,Yes,77,6,30,3.8,65
+emp127,Yamuna Pati,Operations,,35,MCA,10/11/2020,25998,4,Yes,82,2,39,3.4,55
+emp128,Gokulnath,Customer Service,,37,MBA,1/7/2021,52728,7,No,78,1,10,3.4,47
+emp129,Vrajapati,Research and Development (R&D),,24,MCA,6/26/2016,63507,10,Yes,78,8,6,4,68
+emp130,Chandravali Priya,Procurement / Purchase,,44,BBA,8/26/2022,55014,3,No,84,1,35,3.9,56
+emp131,Rasachakravarti,Production / Manufacturing,,37,M.Tech,7/27/2016,76707,10,No,74,7,11,4.7,71
+emp132,Premdhara,Quality Assurance (QA),,32,M.Tech,6/11/2023,79020,11,No,83,10,34,3.6,76
+emp133,Premlal,Logistics / Supply Chain,,38,B.Com,3/29/2015,27547,13,No,100,1,36,3.3,56
+emp134,Anandamaya,Legal,,39,BBA,12/9/2018,65257,14,No,94,2,35,3.7,60
+emp135,Hridyesh,Public Relations (PR),,23,B.Com,4/22/2023,71246,3,Yes,97,9,17,4.3,79
+emp136,Chaturbhujadhari,Training and Development,,20,MBA,2/12/2015,41345,6,Yes,96,3,48,3.8,65
+emp137,Shyamsundara,Business Development,,41,B.Tech,10/16/2017,49352,12,No,91,4,42,3.5,64
+emp138,Kamala Priya,Maintenance,,25,MCA,4/6/2018,30761,12,No,98,8,23,4.7,81
+emp139,Kanhaiyalal,Security,,32,M.Tech,8/6/2018,75020,14,No,75,6,21,2.8,57
+emp140,Manohara,Design / Creative,,31,M.Tech,11/13/2017,66325,4,No,88,1,44,3.5,56
+emp141,Vrajvihar,Human Resources (HR),,44,M.Tech,1/21/2015,76956,14,No,79,7,18,3.7,66
+emp142,Vrindavaneshwara,Finance,,25,B.Com,4/22/2020,66708,11,No,73,5,5,3.7,57
+emp143,Gokulapati,Sales,,42,MCA,1/8/2022,81985,13,Yes,85,10,50,4.5,85
+emp144,Yamuneshwara,Marketing,,29,MBA,8/28/2018,78012,5,Yes,97,4,30,4.7,72
+emp145,Radha Kant,Information Technology (IT),,31,M.Tech,12/5/2020,41617,3,No,80,3,8,4.3,59
+emp146,Radha Priya,Administration,,29,BBA,12/30/2023,45177,9,No,90,5,5,3.6,61
+emp147,Rasraj,Operations,,27,B.Tech,1/18/2018,43803,2,No,79,9,24,4.1,75
+emp148,Kamdev,Customer Service,,25,MCA,4/3/2020,50039,4,Yes,98,6,10,4,69
+emp149,Rasaraj,Research and Development (R&D),,25,B.Com,2/22/2023,83090,13,No,75,6,47,2.7,60
+emp150,Shree Murli Manohar,Procurement / Purchase,,45,B.Tech,9/1/2020,66565,14,Yes,100,8,18,3.6,73
+emp151,Shree Gopalakrishna,Production / Manufacturing,,24,MCA,8/5/2023,31037,14,Yes,78,6,14,4.7,70
+emp152,Shree Vrajraj,Quality Assurance (QA),,35,M.Tech,1/12/2021,71491,6,Yes,81,5,44,4.8,73
+emp153,Venu Madhava,Logistics / Supply Chain,,21,B.Com,5/19/2023,44291,6,Yes,76,4,39,3.4,59
+emp154,Shree Chandramauli,Legal,,27,BBA,10/8/2018,76092,9,Yes,88,10,40,4.2,82
+emp155,Shree Gaurhari,Public Relations (PR),,23,BBA,11/21/2015,25095,11,No,90,5,16,4.2,67
+emp156,Madan Gopal,Training and Development,,45,BBA,4/28/2016,44399,1,No,98,3,5,4,61
+emp157,Lila Purushottama,Business Development,,28,MCA,4/1/2015,52113,5,Yes,94,9,13,3.2,70
+emp158,Govardhan Nath,Maintenance,,27,B.Com,12/25/2024,45757,12,Yes,79,7,37,3.1,65
+emp159,Navaneet Chora,Security,,42,MCA,5/9/2021,59628,14,Yes,85,9,11,3.8,72
+emp160,Makhanlal,Design / Creative,,41,B.Com,9/5/2016,34973,11,No,77,6,29,4.4,69
+emp161,Bal Mukund,Human Resources (HR),,32,B.Tech,11/28/2024,65995,10,No,78,3,31,2.9,52
+emp162,Purna Purushottama,Finance,,24,B.Tech,1/7/2024,80793,10,No,92,7,17,3.3,66
+emp163,Shree Vraj Govind,Sales,,36,B.Tech,8/16/2021,56493,3,No,95,4,35,2.7,58
+emp164,Hari Hari,Marketing,,31,B.Com,5/9/2018,84274,3,No,79,4,38,3.8,62
+emp165,Vrindavan Vasini,Information Technology (IT),,23,M.Tech,12/9/2024,34279,15,No,79,8,38,4.4,76
+emp166,Radha Madhav,Administration,,21,B.Com,8/2/2015,58793,11,No,72,5,48,4.7,71
+emp167,Gokulesh,Operations,,37,B.Tech,7/28/2024,39956,12,No,76,9,10,3.6,68
+emp168,Lila Manohar,Customer Service,,37,B.Com,11/22/2019,75136,14,No,96,9,25,3.3,73
+emp169,Shree Yashoda Dulal,Research and Development (R&D),,20,M.Tech,8/20/2024,79255,6,No,77,7,5,4.7,70
+emp170,Bala Mukund,Procurement / Purchase,,28,M.Tech,1/20/2015,28421,5,No,93,7,25,4.2,74
+emp171,Vrajendra Kumar,Production / Manufacturing,,41,MBA,7/9/2022,62547,12,Yes,96,10,12,3.1,73
+emp172,Tribhanga Murari,Quality Assurance (QA),,28,BBA,2/4/2015,34277,10,No,99,7,10,4,72
+emp173,Chaturbhuja Murti,Logistics / Supply Chain,,33,MBA,9/13/2021,46863,15,No,91,5,22,4.9,73
+emp174,Rasaraj Madhava,Legal,,41,B.Tech,11/30/2017,31281,5,No,75,7,6,4.4,68
+emp175,Venu Vilas,Public Relations (PR),,35,MBA,8/24/2016,33866,15,No,97,4,11,4.5,67
+emp176,Nitya Rasika,Training and Development,,40,B.Com,10/21/2017,29486,11,Yes,95,5,10,4.3,68
+emp177,Gokul Krishna,Business Development,,44,MBA,7/20/2018,38895,7,No,74,4,19,3.9,59
+emp178,Braj Mohan,Maintenance,,39,B.Tech,10/17/2017,26774,14,Yes,89,2,7,4.7,61
+emp179,Radha Shyam,Security,,36,M.Tech,11/24/2023,68346,11,No,94,3,16,4.4,64
+emp180,Gopal Dev,Design / Creative,,39,MCA,5/7/2022,82424,2,No,100,8,32,2.6,68
+emp181,Shree Nand Kishore,Human Resources (HR),,28,MBA,6/8/2024,49621,7,No,92,10,48,3.5,80
+emp182,Shree Vrindavan Nath,Finance,,42,MBA,11/25/2015,36184,8,Yes,97,10,38,2.8,75
+emp183,Vrajvasi Priya,Sales,,27,B.Com,1/23/2018,30351,3,No,70,7,32,4,68
+emp184,Radha Vallabha,Marketing,,42,MBA,12/5/2024,58846,9,No,92,5,50,4.1,72
+emp185,Radha Ramana,Information Technology (IT),,39,B.Tech,8/13/2023,84714,5,No,85,7,47,3.7,72
+emp186,Premanand,Administration,,31,BBA,1/25/2017,25454,6,Yes,87,10,16,4.7,82
+emp187,Shree Rasika,Operations,,44,MBA,3/8/2022,50042,12,No,74,2,16,3.2,48
+emp188,Shree Manmohana,Customer Service,,32,M.Tech,6/14/2019,81181,13,Yes,72,2,13,3.7,51
+emp189,Venu Kumar,Research and Development (R&D),,36,B.Tech,12/12/2024,54653,6,No,71,4,28,3.6,57
+emp190,Yamuna Krishna,Procurement / Purchase,,43,B.Tech,5/15/2021,61685,2,No,78,9,32,2.9,67
+emp191,Gokul Chandra,Production / Manufacturing,,38,MBA,11/2/2024,45074,14,No,97,3,28,2.9,56
+emp192,Radha Krishna,Quality Assurance (QA),,25,MBA,8/7/2019,42329,1,Yes,100,8,25,3.9,76
+emp193,Radha Raman Hari,Logistics / Supply Chain,,44,B.Com,6/3/2023,29194,2,No,94,2,25,4.8,66
+emp194,Radhe Shyam,Legal,,30,M.Tech,12/12/2023,74199,4,No,83,9,31,3.3,71
+emp195,Rasa Bihari Lal,Public Relations (PR),,23,B.Tech,3/25/2020,43169,7,No,89,3,14,3.9,59
+emp196,Tribhanga Shree Krishna,Training and Development,,23,MBA,7/15/2016,47763,10,Yes,97,10,26,4,81
+emp197,Premmurti Gopal,Business Development,,39,M.Tech,12/3/2020,41964,4,No,92,8,18,4.6,78
+emp198,Lila Gopal,Maintenance,,44,BBA,3/25/2018,67743,13,No,79,4,41,3.3,59
+emp199,Anand Gopal,Security,,31,MCA,2/6/2017,29156,9,No,89,8,33,3.1,69
+emp200,chit annand,Design / Creative,,34,MBA,5/10/2024,76369,1,No,70,1,12,4.3,52
+emp201,Shiva,Human Resources (HR),,22,M.Tech,11/23/2023,82951,1,Yes,73,8,45,3.3,68
+emp202,Mahadeva,Finance,,30,B.Tech,12/4/2020,68107,1,Yes,70,2,35,4.4,59
+emp203,Shambhu,Sales,,38,MBA,6/29/2021,61879,9,No,86,1,44,2.7,50
+emp204,Shankara,Marketing,,34,MCA,2/9/2022,37793,14,No,72,3,7,3.5,51
+emp205,Rudra,Information Technology (IT),,40,BBA,12/31/2021,59768,5,No,97,3,5,4,61
+emp206,Neelkantha,Administration,,42,BBA,11/8/2020,81207,7,No,75,6,22,4,65
+emp207,Bholenath,Operations,,34,BBA,12/11/2018,74607,14,No,96,7,36,2.7,66
+emp208,Pashupati,Customer Service,,37,B.Tech,7/13/2020,50390,10,No,100,5,6,4.1,67
+emp209,Nataraja,Research and Development (R&D),,22,MBA,12/21/2022,31744,8,No,90,9,40,3.7,77
+emp210,Maheshwara,Procurement / Purchase,,26,B.Tech,9/15/2023,25879,11,No,86,8,39,4,75
+emp211,Kailashnath,Production / Manufacturing,,44,M.Tech,1/21/2022,48398,5,Yes,96,3,5,3.3,55
+emp212,Gangadhara,Quality Assurance (QA),,34,M.Tech,10/28/2019,67323,15,Yes,77,1,41,3.1,50
+emp213,Trilochana,Logistics / Supply Chain,,33,M.Tech,10/29/2016,27410,13,Yes,76,4,35,2.7,53
+emp214,Tryambaka,Legal,,24,B.Tech,7/4/2017,31189,7,Yes,95,3,46,4.5,70
+emp215,Mrityunjaya,Public Relations (PR),,30,B.Com,1/22/2020,42951,3,Yes,70,1,20,4.2,52
+emp216,Omkara,Training and Development,,26,BBA,11/2/2021,51077,10,Yes,94,3,36,2.8,56
+emp217,Ishana,Business Development,,21,BBA,3/9/2021,44978,15,No,87,4,39,3.4,61
+emp218,Mahayogi,Maintenance,,40,B.Com,10/25/2021,30006,13,No,86,3,32,4.6,66
+emp219,Yogeshwara,Security,,41,B.Tech,8/26/2020,48694,15,No,81,9,45,4.8,83
+emp220,Chandrashekhara,Design / Creative,,37,M.Tech,9/9/2018,45746,10,Yes,88,8,24,2.5,63
+emp221,Hara,Human Resources (HR),,45,BBA,1/29/2023,78726,6,No,99,6,19,3.6,68
+emp222,Girisha,Finance,,22,MBA,12/3/2024,57279,9,Yes,92,6,15,2.8,60
+emp223,Girijapati,Sales,,34,B.Com,10/14/2022,74211,4,No,85,5,17,4.2,66
+emp224,Kailashapati,Marketing,,21,BBA,8/21/2020,57538,14,No,74,6,30,4.6,70
+emp225,Bhairava,Information Technology (IT),,35,B.Com,4/19/2020,76000,11,Yes,84,8,6,3.6,67
+emp226,Kaal Bhairava,Administration,,27,BBA,6/12/2017,75332,8,No,79,3,50,4.7,68
+emp227,Virupaksha,Operations,,31,BBA,3/4/2016,27380,5,No,82,6,18,4.8,72
+emp228,Kapardina,Customer Service,,32,B.Com,1/28/2017,36736,10,Yes,78,10,24,2.8,68
+emp229,Somasundara,Research and Development (R&D),,22,M.Tech,8/24/2021,29713,2,Yes,82,6,9,3.8,63
+emp230,Nageshwara,Procurement / Purchase,,43,MCA,1/6/2024,78860,4,Yes,98,10,11,3.3,74
+emp231,Adiyogi,Production / Manufacturing,,33,B.Com,6/6/2018,37293,8,Yes,92,3,45,4.3,67
+emp232,Ardhanarishwara,Quality Assurance (QA),,27,MBA,3/4/2022,56581,8,No,97,10,26,3.1,75
+emp233,Vaidyanatha,Logistics / Supply Chain,,33,M.Tech,1/29/2017,45264,7,No,85,7,12,3.5,65
+emp234,Rudreshwara,Legal,,21,MCA,2/18/2020,59343,14,No,91,10,32,2.6,71
+emp235,Sadashiva,Public Relations (PR),,44,BBA,11/22/2019,41209,11,Yes,98,1,16,3.3,53
+emp236,Mahakala,Training and Development,,32,BBA,5/16/2019,63684,5,Yes,98,1,38,3.2,55
+emp237,Vamadeva,Business Development,,38,BBA,10/28/2023,30636,13,No,70,5,41,2.5,54
+emp238,Tatpurusha,Maintenance,,31,MCA,11/3/2024,43619,5,No,99,2,10,3.6,56
+emp239,Aghora,Security,,43,MCA,12/28/2022,83621,8,No,73,3,48,2.8,53
+emp240,Ishana Rudra,Design / Creative,,26,B.Tech,3/30/2017,49497,10,No,97,9,16,3.4,73
+emp241,Nilalohita,Human Resources (HR),,44,BBA,9/23/2019,75866,1,No,85,4,18,3.4,58
+emp242,Jagadisha,Finance,,29,MCA,1/4/2016,83411,14,No,100,9,22,3,72
+emp243,Shulapani,Sales,,28,B.Com,1/12/2019,79666,5,No,84,8,39,4.5,78
+emp244,Pinakapani,Marketing,,20,M.Tech,9/7/2017,60665,4,No,85,8,39,3.1,69
+emp245,Digambara,Information Technology (IT),,39,M.Tech,8/18/2020,37961,1,No,76,8,18,4.5,73
+emp246,Chandramauli,Administration,,32,B.Tech,1/7/2015,84238,10,No,94,10,34,2.6,72
+emp247,Trilokesh,Operations,,44,MCA,8/9/2023,67498,7,No,71,10,9,2.9,64
+emp248,Jagadguru,Customer Service,,37,MCA,7/11/2017,66693,3,No,80,8,31,4.4,75
+emp249,Devadideva,Research and Development (R&D),,31,M.Tech,10/17/2017,71155,5,No,79,5,18,3.8,62
+emp250,Parameshwara,Procurement / Purchase,,24,MCA,7/1/2022,25419,3,Yes,96,1,26,3.5,55
+emp251,Jagannatha,Production / Manufacturing,,20,BBA,12/18/2020,30448,1,No,91,2,11,5,64
+emp252,Somnath,Quality Assurance (QA),,22,M.Tech,10/7/2021,33512,12,No,94,3,9,3.8,59
+emp253,Omkarnath,Logistics / Supply Chain,,24,M.Tech,12/21/2020,63615,13,Yes,100,1,10,3.5,54
+emp254,Rudranath,Legal,,23,MBA,12/20/2017,44660,11,No,70,2,32,2.7,46
+emp255,Rameshwara,Public Relations (PR),,32,M.Tech,3/19/2016,38971,14,No,92,7,11,3.5,67
+emp256,Kedar Nath,Training and Development,,31,B.Tech,10/3/2018,55759,11,No,87,6,11,3.8,65
+emp257,Mallikarjuna,Business Development,,30,MCA,2/27/2018,83712,7,Yes,94,10,44,3.9,82
+emp258,Vishwanatha,Maintenance,,23,MBA,5/31/2022,34951,11,Yes,91,2,5,4.2,58
+emp259,Nagesh,Security,,20,MCA,2/28/2016,36636,7,No,88,6,50,4.9,79
+emp260,Bhuteshwara,Design / Creative,,27,M.Tech,9/7/2019,60430,11,No,78,9,29,4.2,76
+emp261,Manikarneshwar,Human Resources (HR),,39,MCA,5/13/2018,52069,2,Yes,86,9,40,3.6,75
+emp262,Tarakeshwara,Finance,,39,B.Com,10/17/2015,49201,6,No,80,1,43,2.8,49
+emp263,Omkareshwar,Sales,,34,M.Tech,5/23/2019,34442,2,No,85,9,20,3.8,73
+emp264,Aghorisha,Marketing,,39,MBA,7/31/2023,66820,8,No,88,9,46,4.1,80
+emp265,Chandrapal,Information Technology (IT),,20,M.Tech,12/29/2018,39772,1,No,92,8,40,4.3,79
+emp266,Kamalnath,Administration,,29,BBA,2/25/2021,40086,9,No,74,5,22,3.2,57
+emp267,Jatadhara,Operations,,30,MBA,2/3/2018,73550,12,No,74,8,35,5,79
+emp268,Mahamrityunjaya,Customer Service,,31,BBA,3/25/2020,53628,3,No,82,8,45,4.8,81
+emp269,Nilakantha,Research and Development (R&D),,33,B.Tech,6/10/2016,47752,14,No,78,2,33,4.3,60
+emp270,Rudramurti,Procurement / Purchase,,32,BBA,10/9/2016,83067,7,No,99,1,50,4.1,63
+emp271,Sharva,Production / Manufacturing,,37,B.Com,10/31/2023,60306,12,No,87,5,43,3.3,64
+emp272,Sthanu,Quality Assurance (QA),,31,B.Com,3/18/2022,39929,9,No,78,3,40,2.6,51
+emp273,Umapati,Logistics / Supply Chain,,44,MCA,9/11/2016,54531,3,No,83,5,40,2.8,59
+emp274,Shashishekhara,Legal,,44,B.Com,11/1/2020,52920,8,No,74,9,49,3.9,76
+emp275,Kripanidhi,Public Relations (PR),,36,BBA,1/31/2020,61381,7,No,74,2,32,4.7,61
+emp276,Dhaneshwara,Training and Development,,29,M.Tech,7/23/2022,40122,4,No,72,8,35,4.2,73
+emp277,Dhyana Murti,Business Development,,24,MCA,7/21/2021,42599,14,No,78,10,40,4.8,84
+emp278,Vairagi,Maintenance,,20,BBA,5/28/2023,59006,3,No,95,4,29,4.1,67
+emp279,Jatamukuta,Security,,24,B.Com,11/6/2015,61302,6,No,97,2,32,3.7,60
+emp280,Tripurari,Design / Creative,,43,B.Tech,4/20/2019,45261,14,Yes,83,4,21,4,62
+emp281,Tripurantaka,Human Resources (HR),,38,MBA,11/2/2023,33518,15,No,93,2,20,3.8,58
+emp282,Haryaksha,Finance,,31,M.Tech,12/29/2021,51977,13,No,81,3,13,3.4,54
+emp283,Mrida,Sales,,23,BBA,3/27/2016,68424,13,No,87,9,8,3.6,71
+emp284,Mangal,Marketing,,42,B.Com,9/8/2018,63496,8,No,71,9,10,4.3,72
+emp285,Anantadrishti,Information Technology (IT),,43,B.Tech,6/1/2022,27474,12,No,77,10,29,3.9,76
+emp286,Bhava,Administration,,37,MBA,12/22/2015,57445,1,No,89,1,11,3.4,50
+emp287,Sharvabhava,Operations,,37,M.Tech,12/23/2016,30308,1,No,75,4,13,3.8,57
+emp288,Dandapani,Customer Service,,25,MCA,2/19/2018,54941,5,No,77,8,23,4,71
+emp289,Kapalin,Research and Development (R&D),,38,M.Tech,11/2/2019,49980,3,Yes,87,10,32,2.6,70
+emp290,Visalaksha,Procurement / Purchase,,20,MBA,5/14/2017,59516,6,Yes,91,10,30,2.8,72
+emp291,Jatin,Production / Manufacturing,,21,B.Tech,6/23/2023,27899,13,No,97,10,33,4.3,84
+emp292,Digvasa,Quality Assurance (QA),,26,MCA,7/21/2015,56337,8,No,90,6,36,4.7,76
+emp293,Bhutapati,Logistics / Supply Chain,,41,MCA,3/27/2015,39059,5,Yes,89,4,27,3,57
+emp294,Nityananda,Legal,,26,BBA,7/15/2015,26225,8,No,74,10,25,3.4,71
+emp295,Sukshma,Public Relations (PR),,20,MCA,11/3/2016,66577,4,No,82,4,8,3,53
+emp296,Satyamurti,Training and Development,,33,MCA,11/19/2016,33306,11,No,96,6,26,4.6,75
+emp297,Sureshvara,Business Development,,37,M.Tech,12/21/2018,44231,14,Yes,83,8,21,2.6,62
+emp298,Shaktinatha,Maintenance,,27,M.Tech,11/26/2023,34377,9,No,89,10,50,4.8,88
+emp299,Shrikantha,Security,,38,MBA,1/16/2015,72966,6,No,84,2,20,4.9,63
+emp300,Kameshwara,Design / Creative,,32,B.Tech,5/24/2019,35341,8,No,81,1,37,3.4,52
+emp301,Nilakantha,Human Resources (HR),,23,B.Tech,5/24/2023,54946,15,Yes,95,6,20,3.3,65
+emp302,Trishuladhari,Finance,,29,M.Tech,5/1/2024,55904,4,No,100,7,45,3.2,72
+emp303,Shashankashekhar,Sales,,39,B.Tech,5/6/2019,48612,13,No,71,8,21,4.9,75
+emp304,Rishabheshwara,Marketing,,35,MCA,3/14/2017,74179,4,No,70,10,22,4.9,80
+emp305,Sarveshwara,Information Technology (IT),,41,MBA,6/2/2023,52407,8,No,94,5,41,2.7,61
+emp306,Brahmarupi,Administration,,31,B.Com,8/21/2015,68121,1,Yes,87,6,5,3.4,61
+emp307,Vishveshwara,Operations,,36,MBA,11/29/2015,48661,7,No,73,3,11,3.9,55
+emp308,Satyarupa,Customer Service,,39,BBA,10/9/2017,78962,4,No,79,9,15,3.3,68
+emp309,Parashiva,Research and Development (R&D),,44,M.Tech,7/17/2019,42173,5,No,99,9,36,3.6,78
+emp310,Someshwara,Procurement / Purchase,,36,M.Tech,3/31/2023,43553,5,No,88,10,16,3.2,72
+emp311,Taponidhi,Production / Manufacturing,,27,MBA,3/15/2020,36476,5,No,87,3,22,3.1,54
+emp312,Kamari,Quality Assurance (QA),,28,BBA,5/6/2020,54198,7,No,98,10,17,4.9,86
+emp313,Vrishadhvaja,Logistics / Supply Chain,,41,M.Tech,10/30/2021,75530,14,No,90,7,29,4,72
+emp314,Kailasheshwara,Legal,,36,MBA,11/24/2020,63691,10,No,92,8,23,3,67
+emp315,Shailendra,Public Relations (PR),,35,MBA,5/25/2021,66268,11,Yes,79,3,24,3.5,55
+emp316,Nagabhushana,Training and Development,,43,B.Com,10/30/2024,63189,8,No,84,4,50,4,67
+emp317,Rishanatha,Business Development,,33,B.Tech,1/4/2018,59646,3,Yes,70,2,34,3.3,51
+emp318,Tapasvi,Maintenance,,45,BBA,3/12/2022,69111,11,No,89,5,42,4,69
+emp319,Dakshinamurti,Security,,29,M.Tech,7/27/2017,43756,4,Yes,72,7,24,4.4,70
+emp320,Omkara Roopa,Design / Creative,,36,B.Tech,11/15/2023,38419,12,Yes,77,6,27,3.9,66
+emp321,Gauri Shankara,Human Resources (HR),,39,B.Com,8/6/2016,42413,5,No,80,4,31,3.5,59
+emp322,Shambhunatha,Finance,,24,B.Com,8/20/2017,47756,13,Yes,77,5,42,3.9,65
+emp323,Vishwanath,Sales,,26,B.Com,4/26/2022,63753,13,Yes,89,3,25,2.8,53
+emp324,Swayambhu,Marketing,,20,BBA,3/26/2021,28982,7,No,87,8,21,3.3,68
+emp325,Punyashloka,Information Technology (IT),,45,MBA,9/19/2015,48491,1,Yes,89,5,49,2.6,60
+emp326,Mahesh,Administration,,30,MCA,6/4/2018,40291,8,No,86,7,33,4.8,78
+emp327,Jagatpati,Operations,,29,B.Com,2/10/2015,39830,14,No,98,10,44,3.5,81
+emp328,Bhaktavatsala,Customer Service,,29,BBA,12/8/2022,43274,2,No,80,9,13,3.8,71
+emp329,Rudranath,Research and Development (R&D),,42,BBA,9/20/2021,62924,14,Yes,96,5,40,4.7,75
+emp330,Trinetra,Procurement / Purchase,,44,B.Com,5/22/2018,79046,10,No,78,9,8,2.5,61
+emp331,Kalantaka,Production / Manufacturing,,42,MCA,4/12/2016,38113,13,No,81,3,11,2.7,48
+emp332,Yamantaka,Quality Assurance (QA),,44,B.Com,5/7/2020,38570,13,Yes,87,8,12,3.1,65
+emp333,Jageshwara,Logistics / Supply Chain,,22,MCA,9/23/2018,64935,9,Yes,70,4,44,4,62
+emp334,Trilokadhipa,Legal,,33,M.Tech,8/27/2019,77460,14,No,98,9,48,3.8,81
+emp335,Vishalaksha,Public Relations (PR),,30,BBA,4/9/2017,81907,5,Yes,80,6,31,4.4,70
+emp336,Shubhakara,Training and Development,,29,MBA,10/26/2024,57240,10,No,96,7,16,4.1,73
+emp337,Shubhankara,Business Development,,32,B.Tech,5/16/2018,55381,10,Yes,81,9,30,4.5,79
+emp338,Jagadbandhu,Maintenance,,31,B.Tech,6/11/2019,58146,15,No,99,8,17,3.5,72
+emp339,Kamesha,Security,,31,M.Tech,6/19/2017,77456,10,No,85,4,14,4.3,63
+emp340,Lokeshwara,Design / Creative,,26,B.Tech,3/3/2019,76877,6,No,90,2,10,4.4,60
+emp341,Bhavanatha,Human Resources (HR),,29,BBA,12/26/2018,76254,9,No,94,1,13,4,56
+emp342,Lingaraja,Finance,,28,B.Com,8/24/2017,80704,1,Yes,71,10,16,3.8,72
+emp343,Jyotirlinga,Sales,,27,MCA,5/23/2023,29117,11,No,95,6,40,4.1,73
+emp344,Mahashakti Pati,Marketing,,31,B.Com,4/11/2022,63996,12,No,92,8,13,4.2,74
+emp345,Punyamurti,Information Technology (IT),,37,MBA,7/29/2023,36553,15,No,86,1,42,3.5,55
+emp346,Sharanagata Rakshaka,Administration,,32,B.Tech,5/17/2015,59998,9,Yes,98,6,47,3.9,74
+emp347,Shooleshwara,Operations,,35,B.Com,10/24/2018,53312,7,No,74,10,11,2.5,63
+emp348,Mahatapah,Customer Service,,38,MBA,8/11/2021,26376,8,No,95,1,6,2.7,46
+emp349,Yogendra,Research and Development (R&D),,20,B.Tech,3/28/2022,26740,13,No,70,4,9,4.1,58
+emp350,Yogesh,Procurement / Purchase,,22,BBA,12/4/2015,77561,3,Yes,91,6,26,2.9,62
+emp351,Mahatapasvi,Production / Manufacturing,,21,MBA,11/28/2022,67051,7,No,91,2,42,4.1,63
+emp352,Jaganmay,Quality Assurance (QA),,26,MBA,9/3/2021,55327,14,Yes,72,6,40,4.6,71
+emp353,Shripati,Logistics / Supply Chain,,24,BBA,1/28/2022,45057,11,Yes,71,1,20,3.7,49
+emp354,Karunanidhi,Legal,,25,B.Tech,2/4/2018,27564,13,No,87,9,14,2.9,67
+emp355,Anadi,Public Relations (PR),,35,MBA,3/16/2022,49594,3,No,98,1,43,2.7,52
+emp356,Ananta,Training and Development,,35,M.Tech,7/4/2024,47125,12,No,90,7,11,5,77
+emp357,Achintya,Business Development,,26,MCA,1/10/2020,77697,13,Yes,74,4,9,4.9,64
+emp358,Avyaya,Maintenance,,39,MCA,1/27/2023,56755,6,No,72,10,14,4.4,76
+emp359,Avinashi,Security,,23,MCA,4/30/2019,81166,14,No,87,5,26,2.9,58
+emp360,Achyuta,Design / Creative,,21,B.Com,5/4/2016,41991,1,No,94,8,18,4,74
+emp361,Nandivahana,Human Resources (HR),,37,MBA,9/8/2024,34347,4,No,93,5,39,3.8,68
+emp362,Jatadhara,Finance,,43,M.Tech,12/25/2020,40955,12,Yes,70,6,6,3.1,55
+emp363,Rudraksha Dhari,Sales,,26,MCA,3/20/2015,61158,10,No,71,9,8,2.5,59
+emp364,Bhole Bhandari,Marketing,,32,M.Tech,6/17/2019,50944,7,Yes,73,10,42,3.5,74
+emp365,Trilokesh,Information Technology (IT),,32,MCA,2/21/2018,77760,2,No,97,3,36,2.7,56
+emp366,Pashupatinath,Administration,,41,B.Tech,3/25/2016,33848,12,No,72,4,6,3.1,51
+emp367,Shakti Kantha,Operations,,20,B.Com,7/20/2018,38609,3,No,100,9,11,4.8,83
+emp368,Vishwakarma,Customer Service,,30,M.Tech,12/25/2017,45512,5,No,87,4,10,4.5,65
+emp369,Vyakta,Research and Development (R&D),,40,BBA,6/30/2022,41354,2,No,92,9,24,4.5,81
+emp370,Nirguna,Procurement / Purchase,,40,MBA,8/5/2018,40688,13,No,85,8,12,3,64
+emp371,Saguna,Production / Manufacturing,,25,M.Tech,8/14/2022,80259,8,Yes,83,9,15,2.9,66
+emp372,Panchanana,Quality Assurance (QA),,43,B.Com,2/20/2021,75958,5,Yes,78,7,12,3.7,65
+emp373,Aghoranatha,Logistics / Supply Chain,,36,BBA,5/17/2021,52369,3,Yes,98,10,42,4.2,85
+emp374,Virbhadra,Legal,,26,B.Com,12/15/2023,32561,4,No,85,2,12,3.2,50
+emp375,Shree Rudra,Public Relations (PR),,29,BBA,6/28/2024,33341,8,No,95,3,32,3.3,59
+emp376,Ekalinga,Training and Development,,36,BBA,12/12/2016,74324,7,Yes,94,1,19,3.6,54
+emp377,Bhootanatha,Business Development,,20,MBA,2/1/2016,37314,6,No,72,5,7,2.8,51
+emp378,Dukhahara,Maintenance,,29,B.Tech,8/3/2021,56143,6,No,89,8,9,2.9,64
+emp379,Papahari,Security,,20,B.Com,12/25/2023,35037,7,Yes,92,6,45,4.6,77
+emp380,Daya Sagara,Design / Creative,,45,M.Tech,1/25/2017,79496,14,Yes,71,3,45,3.3,55
+emp381,Bhaktiswaroopa,Human Resources (HR),,28,MBA,4/23/2015,46411,9,No,81,8,46,3.4,71
+emp382,Amarnath,Finance,,45,M.Tech,1/3/2022,55847,4,No,73,4,28,4,60
+emp383,Kailashesh,Sales,,29,BBA,9/26/2020,30623,10,No,81,9,8,3.3,67
+emp384,Kalyaneshwara,Marketing,,40,B.Com,10/5/2016,49901,15,No,84,2,37,3.3,55
+emp385,Jivadhara,Information Technology (IT),,25,BBA,6/4/2022,48505,14,Yes,87,6,42,3.7,69
+emp386,Shrikantha,Administration,,40,BBA,10/9/2019,57843,6,No,90,4,23,4.3,66
+emp387,Vishwesh,Operations,,45,MCA,4/1/2020,55150,14,No,86,10,21,4.2,79
+emp388,Mahabala,Customer Service,,36,B.Com,9/28/2020,51388,8,Yes,96,5,5,3.8,64
+emp389,Sarvajnana,Research and Development (R&D),,33,MCA,1/11/2023,42240,1,No,90,3,50,2.5,55
+emp390,Shridhara,Procurement / Purchase,,26,M.Tech,1/13/2023,60956,1,No,77,7,12,3.1,60
+emp391,Om Tat Sat,Production / Manufacturing,,24,MBA,7/9/2021,56141,15,No,74,2,23,4.7,60
+emp392,Jata Mukuta Dharin,Quality Assurance (QA),,29,MBA,5/7/2022,31440,8,No,88,3,29,3.7,60
+emp393,Gangaadhar,Logistics / Supply Chain,,22,BBA,7/20/2019,47792,8,No,91,8,29,3.6,72
+emp394,Chandrasekhara,Legal,,34,MCA,5/18/2020,63303,5,No,95,8,43,4.4,81
+emp395,Pashupati Nath,Public Relations (PR),,34,BBA,6/9/2016,33017,13,No,88,6,40,4.5,75
+emp396,Bhaironath,Training and Development,,22,MCA,11/30/2022,34293,1,No,89,5,43,4,69
+emp397,Mahamaya Pati,Business Development,,43,MCA,10/23/2015,63557,11,No,90,1,19,3.6,53
+emp398,Jaganmohana,Maintenance,,41,MCA,6/8/2024,47465,3,No,81,6,12,4.8,71
+emp399,Sadguru,Security,,35,MBA,2/24/2017,56189,13,No,76,6,44,3.4,64
+emp400,Maheshwara Shankara,Design / Creative,,34,B.Com,10/19/2019,56729,9,Yes,89,8,9,3.2,66
+emp401,Hanuman,Human Resources (HR),,30,M.Tech,9/29/2015,58361,13,No,86,1,48,2.6,49
+emp402,Anjaneya,Finance,,34,M.Tech,3/11/2021,27847,12,No,72,7,20,4,67
+emp403,Bajrangbali,Sales,,23,MCA,7/8/2020,39981,8,Yes,74,9,13,2.8,63
+emp404,Maruti,Marketing,,27,MCA,10/19/2015,27534,3,No,76,10,44,3.6,76
+emp405,Mahaveer,Information Technology (IT),,35,MCA,10/12/2022,56989,9,No,98,9,47,3.1,76
+emp406,Pavanputra,Administration,,25,MCA,1/19/2020,50375,4,Yes,78,8,45,3.4,70
+emp407,Kesarinandan,Operations,,29,M.Tech,8/12/2020,47090,1,No,97,7,13,3.4,68
+emp408,Sankat Mochan,Customer Service,,43,MBA,6/5/2015,78543,10,No,98,3,5,4.3,63
+emp409,Ramabhakta,Research and Development (R&D),,43,B.Com,12/4/2019,45363,13,No,91,9,11,4.8,81
+emp410,Ramduta,Procurement / Purchase,,36,B.Com,12/21/2022,48856,10,No,84,10,39,3.4,76
+emp411,Chiranjeevi,Production / Manufacturing,,36,B.Com,11/18/2019,31886,14,No,95,4,22,5,72
+emp412,Mahabali,Quality Assurance (QA),,39,M.Tech,2/13/2017,59769,10,No,73,10,42,3.9,77
+emp413,Mahashaktimaan,Logistics / Supply Chain,,25,B.Com,8/29/2020,53374,4,No,96,2,20,4.3,62
+emp414,Rudra Avatar,Legal,,45,B.Tech,6/4/2015,51308,2,No,80,7,32,3.6,68
+emp415,Vayuputra,Public Relations (PR),,35,B.Com,9/25/2016,47235,7,No,75,2,50,4.3,61
+emp416,Anjaniputra,Training and Development,,45,MCA,5/18/2024,48511,2,No,99,3,10,3.1,55
+emp417,Kapiraj,Business Development,,42,B.Tech,2/20/2016,75877,13,No,93,1,11,4.1,56
+emp418,Bhakt Hanuman,Maintenance,,30,B.Tech,4/16/2024,81279,8,No,87,7,37,3.4,69
+emp419,Raghunath Sevak,Security,,29,B.Com,8/31/2018,35980,1,No,100,4,48,4.8,76
+emp420,Ram Priya,Design / Creative,,39,MCA,1/23/2015,26598,15,Yes,72,2,17,3.3,49
+emp421,Sita Shok Vinashak,Human Resources (HR),,44,M.Tech,9/25/2018,63556,3,Yes,75,1,45,3.8,55
+emp422,Lanka Dahanak,Finance,,25,M.Tech,10/31/2020,73790,7,No,70,4,8,4.5,60
+emp423,Sugreeva Sakha,Sales,,23,B.Com,3/2/2023,55428,4,Yes,73,4,14,4.4,61
+emp424,Mahakaya,Marketing,,40,BBA,7/24/2024,68242,10,No,97,4,9,3.4,59
+emp425,Ramdoot Veer,Information Technology (IT),,22,M.Tech,11/20/2019,66871,1,No,97,7,25,4.6,78
+emp426,Bajrang,Administration,,36,B.Tech,10/31/2018,79156,3,Yes,71,3,40,3.9,59
+emp427,Jitendriya,Operations,,32,BBA,9/28/2018,41646,2,No,83,5,26,2.5,55
+emp428,Tejovant,Customer Service,,45,B.Com,11/10/2017,57553,14,No,88,6,42,3.7,69
+emp429,Pratapavan,Research and Development (R&D),,36,MBA,2/6/2016,67357,6,No,80,10,31,4.7,83
+emp430,Ram Sevak,Procurement / Purchase,,40,MCA,7/6/2023,64528,14,No,92,4,29,4.2,67
+emp431,Dharmatma,Production / Manufacturing,,42,BBA,11/24/2021,26470,2,No,83,2,5,4.3,57
+emp432,Buddhiman,Quality Assurance (QA),,26,B.Com,5/5/2018,64828,7,No,94,5,32,3.7,67
+emp433,Gunavan,Logistics / Supply Chain,,43,B.Tech,8/9/2017,37186,13,No,87,1,38,3,51
+emp434,Satyavadi,Legal,,41,MCA,1/22/2016,37513,9,No,72,3,26,4.8,63
+emp435,Balwan,Public Relations (PR),,26,MCA,8/31/2024,69770,1,Yes,88,6,7,2.7,57
+emp436,Jaya,Training and Development,,23,MCA,3/19/2018,81882,6,Yes,78,4,38,3.5,60
+emp437,Vijaya,Business Development,,35,B.Tech,5/13/2019,68371,1,No,86,3,25,3.1,54
+emp438,Veera,Maintenance,,30,BBA,11/21/2023,83943,3,No,80,5,20,3.7,61
+emp439,Shura,Security,,40,MCA,1/22/2023,36384,11,No,83,3,8,3.6,55
+emp440,Tapasvi,Design / Creative,,25,M.Tech,4/25/2018,48892,13,No,85,8,28,4.5,77
+emp441,Yogi,Human Resources (HR),,23,BBA,3/30/2023,31368,13,No,78,1,46,2.7,48
+emp442,Brahmachari,Finance,,32,MBA,2/10/2019,26171,12,No,90,5,35,3.1,62
+emp443,Bhaktavatsal,Sales,,21,M.Tech,11/28/2017,83528,7,No,88,6,28,2.8,61
+emp444,Sita Rakshak,Marketing,,32,BBA,1/24/2022,28716,6,Yes,93,8,13,4.7,78
+emp445,Lankesh Vijeta,Information Technology (IT),,22,B.Tech,2/12/2016,49400,3,No,84,4,22,3.8,61
+emp446,Akshay Kumarantak,Administration,,31,BBA,4/21/2019,83025,14,Yes,96,4,9,4.5,67
+emp447,Dukh Bhanjan,Operations,,45,BBA,11/10/2022,27860,6,No,89,5,23,4.5,70
+emp448,Daya Sagar,Customer Service,,29,BBA,11/12/2020,65239,6,No,78,4,6,3.2,53
+emp449,Bhakta Rakshak,Research and Development (R&D),,43,B.Tech,6/18/2021,32383,2,No,87,8,36,3.7,73
+emp450,Kapishwar,Procurement / Purchase,,23,BBA,6/16/2015,82137,13,No,84,6,32,3.6,66
+emp451,Rama Rakshak,Production / Manufacturing,,37,B.Com,1/17/2015,68966,14,No,93,5,39,2.9,62
+emp452,Lakshman Prandata,Quality Assurance (QA),,41,M.Tech,7/6/2015,27719,12,Yes,80,7,31,2.9,62
+emp453,Sanjeevani Dhari,Logistics / Supply Chain,,23,MCA,10/11/2024,38708,6,No,81,10,44,4.2,81
+emp454,Parvatodhara,Legal,,45,BBA,8/5/2021,76033,7,No,99,3,15,3.2,57
+emp455,Sugreeva Mitra,Public Relations (PR),,36,M.Tech,5/1/2023,74334,2,No,88,6,32,4.6,74
+emp456,Bhima Sahayak,Training and Development,,30,M.Tech,1/2/2019,40670,6,No,91,6,34,4.7,76
+emp457,Arjun Sahayak,Business Development,,31,M.Tech,12/29/2022,32862,11,No,100,7,18,3,66
+emp458,Trikala Jnani,Maintenance,,26,B.Tech,4/25/2020,31823,7,No,79,5,29,3.1,58
+emp459,Charitra Shuddha,Security,,39,M.Tech,2/27/2016,74800,10,No,74,1,22,4.7,57
+emp460,Manohar,Design / Creative,,32,BBA,11/7/2023,69994,14,No,73,5,11,3,53
+emp461,Sundara,Human Resources (HR),,36,B.Com,2/7/2017,67845,13,No,85,10,43,5,88
+emp462,Raghava Sevak,Finance,,26,MCA,1/14/2015,45270,13,No,87,6,27,4.4,72
+emp463,Sita Priya,Sales,,21,B.Tech,5/21/2019,55537,11,No,99,5,43,5,79
+emp464,Ram Priya Sevak,Marketing,,33,MBA,3/14/2021,34736,6,No,88,1,29,3.2,51
+emp465,Mahamati,Information Technology (IT),,25,MBA,6/25/2019,33529,2,No,96,10,36,2.5,72
+emp466,Shaktidhara,Administration,,26,MCA,9/15/2019,44982,14,Yes,88,7,5,2.6,58
+emp467,Ajeya,Operations,,22,B.Com,11/10/2024,40455,1,Yes,85,4,48,4.8,72
+emp468,Amar,Customer Service,,38,M.Tech,6/24/2021,37866,11,Yes,76,2,9,3.6,51
+emp469,Anant Veer,Research and Development (R&D),,34,MBA,9/7/2018,39166,11,No,79,1,16,3.2,47
+emp470,Kapivara,Procurement / Purchase,,40,MCA,1/9/2021,61929,2,No,77,10,6,3.4,69
+emp471,Devata Priya,Production / Manufacturing,,35,MBA,1/24/2024,68052,9,No,77,5,9,2.8,53
+emp472,Rama Mantra Japak,Quality Assurance (QA),,35,B.Com,1/15/2018,26805,10,Yes,84,9,7,4.7,77
+emp473,Mangalmurti,Logistics / Supply Chain,,20,B.Tech,5/5/2017,37952,13,No,87,1,45,4.8,65
+emp474,Prasanna,Legal,,37,MBA,6/3/2021,34752,1,No,82,10,29,2.7,69
+emp475,Dhira,Public Relations (PR),,37,BBA,1/27/2024,50540,6,No,92,3,34,3.4,59
+emp476,Bhava Nashak,Training and Development,,25,B.Com,10/2/2015,53681,9,No,81,10,30,3.9,77
+emp477,Vighna Nashak,Business Development,,30,BBA,8/30/2023,72289,13,Yes,88,6,11,2.9,59
+emp478,Shree Hanuman,Maintenance,,36,M.Tech,2/2/2024,65287,13,Yes,83,1,47,3.9,58
+emp479,Mahatapa,Security,,33,BBA,10/19/2020,45130,8,No,96,5,33,2.9,62
+emp480,Tapasvi Shreshtha,Design / Creative,,39,BBA,7/25/2021,72804,10,Yes,94,4,37,4.1,68
+emp481,Daya Murti,Human Resources (HR),,41,BBA,10/10/2017,41991,5,No,100,6,42,3.6,72
+emp482,Sharanagat Rakshak,Finance,,29,B.Tech,8/5/2018,36711,5,No,93,4,11,3.7,61
+emp483,Param Bhakta,Sales,,33,M.Tech,12/28/2016,64515,7,No,73,6,38,4.3,69
+emp484,Ramayana Pravakta,Marketing,,43,B.Com,5/5/2020,63288,7,No,84,9,42,3.7,76
+emp485,Ram Bhakta Shiromani,Information Technology (IT),,41,BBA,10/19/2020,83104,5,No,91,6,36,3.6,68
+emp486,Gyan Gun Sagar,Administration,,20,M.Tech,8/30/2021,37992,12,No,95,1,29,3.8,57
+emp487,Bhakta Priya,Operations,,20,BBA,2/7/2017,52661,13,No,86,8,38,2.8,67
+emp488,Daya Nidhi,Customer Service,,36,B.Com,5/15/2018,82992,15,No,75,1,25,3.7,51
+emp489,Ananda Murti,Research and Development (R&D),,45,B.Com,9/8/2015,25291,1,No,72,3,19,3.9,56
+emp490,Rama Raksha Prad,Procurement / Purchase,,37,M.Tech,8/3/2016,51320,2,No,92,5,29,3.2,62
+emp491,Bhima Bala,Production / Manufacturing,,35,MCA,12/21/2017,47341,4,Yes,83,4,48,3.4,62
+emp492,Mahatej,Quality Assurance (QA),,34,MBA,1/23/2019,26420,7,Yes,82,5,39,4.7,72
+emp493,Raghupati Priya,Logistics / Supply Chain,,20,BBA,5/4/2015,55348,5,Yes,86,3,43,4.2,65
+emp494,Sita Sahaya,Legal,,28,B.Com,11/18/2018,80807,1,No,89,8,38,4.4,79
+emp495,Kapindra,Public Relations (PR),,38,B.Com,8/19/2018,53091,3,No,90,4,6,3.7,59
+emp496,Ramdoot,Training and Development,,25,B.Com,4/4/2021,27450,11,Yes,87,8,46,4.4,79
+emp497,Sugreev Sahayak,Business Development,,23,MBA,6/12/2024,62717,5,No,79,8,11,2.9,62
+emp498,Sita Ashirvad Prad,Maintenance,,31,M.Tech,9/29/2016,38877,4,No,92,4,30,3.8,64
+emp499,Dharma Rakshak,Security,,38,BBA,7/17/2016,72715,10,No,77,3,5,3.9,55
+emp500,Karuna Sindhu,Design / Creative,,34,B.Tech,7/27/2022,45697,5,No,96,7,33,3,67
+emp501,Kapindra Raja,Human Resources (HR),,30,B.Com,4/2/2015,44530,11,No,71,3,12,3.3,50
+emp502,Lankesh Mardana,Finance,,39,BBA,3/16/2023,35565,14,No,77,7,34,4.1,71
+emp503,Jagat Pavana,Sales,,33,B.Com,6/29/2019,30229,12,No,81,3,23,4.9,66
+emp504,Vayu Nandana,Marketing,,33,MBA,12/9/2016,54819,2,Yes,75,2,5,2.8,44
+emp505,Bhava Bhaya Nashak,Information Technology (IT),,23,MBA,7/2/2018,34542,15,No,93,8,44,2.8,69
+emp506,Mangala Moorti,Administration,,30,B.Tech,10/22/2017,44568,4,Yes,77,6,18,2.7,56
+emp507,Tatva Gyani,Operations,,23,BBA,7/8/2020,40966,1,No,99,7,32,4.1,76
+emp508,Gyan Murti,Customer Service,,39,M.Tech,4/26/2015,58931,6,Yes,70,9,13,2.5,59
+emp509,Sita Ram Bhakta,Research and Development (R&D),,37,MBA,10/29/2019,52269,4,No,93,8,35,4.6,81
+emp510,Kapilaksha,Procurement / Purchase,,37,M.Tech,5/13/2024,53961,11,Yes,79,4,16,2.6,50
+emp511,Bhima Sena Sahaaya,Production / Manufacturing,,23,M.Tech,2/14/2024,61942,3,Yes,87,4,6,4,61
+emp512,Dharma Sevaka,Quality Assurance (QA),,25,MBA,10/16/2023,32151,10,No,82,4,7,4.2,61
+emp513,Satya Sankalp,Logistics / Supply Chain,,30,M.Tech,6/22/2015,69744,8,No,85,5,49,4.8,75
+emp514,Rama Hridaya Vasak,Legal,,24,B.Tech,6/22/2017,43211,9,No,96,6,22,4.6,75
+emp515,Seetapati Sevak,Public Relations (PR),,37,B.Tech,2/2/2024,78128,3,No,100,5,37,2.9,63
+emp516,Rama Priya Bhakta,Training and Development,,37,BBA,8/13/2024,40140,9,No,70,3,18,4.9,62
+emp517,Tapovana Vihari,Business Development,,35,BBA,1/1/2024,81093,6,No,77,8,18,3.6,67
+emp518,Ayodhya Rakshak,Maintenance,,40,B.Com,3/31/2023,80874,14,No,84,4,40,4.9,71
+emp519,Sumukha,Security,,24,B.Com,6/18/2022,69089,4,Yes,72,9,26,2.6,63
+emp520,Charitra Pavana,Design / Creative,,43,BBA,7/26/2023,40344,4,No,76,5,35,2.6,55
+emp521,Shree Pavanputra,Human Resources (HR),,20,MCA,10/2/2024,81472,13,No,91,8,45,3.5,74
+emp522,Rameshta,Finance,,33,B.Tech,3/9/2015,30942,11,No,96,5,34,4.4,72
+emp523,Kapish,Sales,,24,B.Tech,6/7/2022,81748,13,No,73,7,41,4.2,71
+emp524,Vayu Nandan,Marketing,,41,BBA,11/25/2019,77331,2,Yes,95,7,14,3.9,71
+emp525,Ram Bhakta,Information Technology (IT),,22,B.Tech,4/7/2021,31520,2,No,87,3,50,2.7,56
+emp526,Triloka Vijeta,Administration,,34,B.Com,12/13/2018,32559,1,No,97,7,22,3.9,72
+emp527,Ram Premi,Operations,,36,MBA,9/30/2019,72111,1,No,86,2,29,4.5,62
+emp528,Satyadhara,Customer Service,,36,MCA,12/6/2018,82036,5,Yes,86,5,22,4.8,71
+emp529,Dharmika,Research and Development (R&D),,38,BBA,4/30/2018,66981,10,No,85,7,33,3.5,68
+emp530,Bhaktiswaroopa,Procurement / Purchase,,35,B.Com,3/18/2024,83558,10,Yes,80,6,43,4.5,73
+emp531,Deva Sena Pujita,Production / Manufacturing,,43,B.Com,9/3/2015,49479,7,Yes,86,8,41,3.7,74
+emp532,Rama Raksha Karaka,Quality Assurance (QA),,45,MBA,12/2/2015,57604,8,No,92,8,24,4,75
+emp533,Jagat Rakshak,Logistics / Supply Chain,,39,B.Com,5/23/2021,83650,11,No,91,6,25,4,70
+emp534,Jaya Pradata,Legal,,36,M.Tech,7/9/2017,39460,13,No,92,3,47,2.9,58
+emp535,Shubhankar,Public Relations (PR),,42,M.Tech,4/20/2020,37044,4,No,89,3,15,4.1,61
+emp536,Rama Dasa,Training and Development,,33,MBA,3/17/2019,46915,12,No,100,1,18,3,51
+emp537,Sita Pati Sevaka,Business Development,,45,B.Tech,5/21/2015,60869,12,No,73,5,13,3.4,57
+emp538,Shree Bajrang,Maintenance,,42,BBA,5/5/2017,25344,1,No,94,6,9,4.8,73
+emp539,Bhakti Murti,Security,,28,MBA,10/21/2022,45694,10,No,75,6,48,3.7,67
+emp540,Bal Sundar,Design / Creative,,33,BBA,5/11/2018,27297,10,No,83,6,9,3.7,63
+emp541,Punyamurti,Human Resources (HR),,30,M.Tech,2/5/2022,75140,15,No,82,9,50,3.2,73
+emp542,Jaya Hanuman,Finance,,36,M.Tech,7/30/2017,45689,5,No,85,4,42,3.8,64
+emp543,Lankesh Vidhwansak,Sales,,26,M.Tech,10/1/2022,26933,7,No,84,9,9,4.6,77
+emp544,Sita Shok Haran,Marketing,,38,MBA,9/13/2018,69306,2,Yes,78,4,23,2.5,50
+emp545,Rama Karya Sadhak,Information Technology (IT),,38,M.Tech,3/29/2021,80552,8,No,73,6,46,3,61
+emp546,Ananda Kanda,Administration,,20,B.Com,12/27/2023,84606,1,Yes,76,10,31,3.7,75
+emp547,Satyapriya,Operations,,24,B.Tech,4/19/2017,59414,14,No,90,7,11,4.3,72
+emp548,Mahodara,Customer Service,,37,B.Tech,1/27/2023,34237,8,Yes,88,7,48,2.9,67
+emp549,Kapindra Natha,Research and Development (R&D),,39,B.Com,6/29/2024,64937,13,Yes,96,3,41,3.4,61
+emp550,Mahavira,Procurement / Purchase,,20,BBA,5/25/2017,80444,5,No,83,3,22,3.3,55
+emp551,Karya Siddhi Prad,Production / Manufacturing,,40,BBA,10/28/2015,40840,2,No,77,7,30,3.7,67
+emp552,Param Veer,Quality Assurance (QA),,37,BBA,9/25/2020,47098,14,Yes,81,10,29,4.7,83
+emp553,Sura Vandita,Logistics / Supply Chain,,30,MCA,4/26/2017,81973,7,No,71,7,19,3.3,61
+emp554,Raghava Dasa,Legal,,24,B.Tech,7/22/2018,42184,1,No,100,8,49,4.8,86
+emp555,Jaya Murti,Public Relations (PR),,27,MCA,11/28/2024,52421,6,No,89,7,10,4.2,71
+emp556,Ram Mantra Dhari,Training and Development,,20,MBA,6/28/2017,48293,15,No,84,6,34,4.3,71
+emp557,Sankata Mochan,Business Development,,45,MCA,1/16/2022,63106,8,Yes,75,5,14,2.6,52
+emp558,Dharma Yukta,Maintenance,,33,MCA,4/8/2015,78161,5,No,84,2,23,4.3,60
+emp559,Rama Hridaya Nivasak,Security,,40,B.Com,8/28/2018,36284,7,Yes,100,4,50,2.9,63
+emp560,Veer Hanuman,Design / Creative,,24,B.Com,5/23/2020,35731,12,No,83,4,37,4.7,69
+emp561,Gyan Prad,Human Resources (HR),,40,MBA,8/25/2023,43197,10,No,70,4,10,4.8,63
+emp562,Vidya Prad,Finance,,29,B.Tech,5/23/2018,64222,4,Yes,81,5,43,4.4,70
+emp563,Anjaneya Veer,Sales,,36,B.Com,8/7/2019,69859,2,Yes,100,4,33,4.4,71
+emp564,Raghava Rakshak,Marketing,,39,B.Tech,1/9/2021,59632,11,Yes,79,8,38,5,80
+emp565,Dayaal,Information Technology (IT),,42,MCA,6/2/2020,44147,3,Yes,93,8,29,4.4,78
+emp566,Kripa Sindhu,Administration,,31,MCA,4/18/2018,72325,13,Yes,90,5,39,3.5,65
+emp567,Bhaktabhaya Nashan,Operations,,45,MBA,4/25/2018,44046,8,No,84,7,34,3.5,68
+emp568,Raghava Sevak,Customer Service,,28,MCA,2/28/2023,81174,15,Yes,74,3,40,2.8,52
+emp569,Kapi Yodha,Research and Development (R&D),,27,MCA,12/25/2016,52241,8,No,75,8,15,3.8,68
+emp570,Lankesh Hanuman,Procurement / Purchase,,26,B.Tech,11/25/2023,83162,15,No,100,9,41,2.6,72
+emp571,Mahabala,Production / Manufacturing,,43,B.Tech,4/2/2023,75606,1,No,80,1,38,4.9,63
+emp572,Anant Tapasvi,Quality Assurance (QA),,34,B.Tech,8/29/2022,28442,10,No,93,7,33,4.4,77
+emp573,Jaya Pradata,Logistics / Supply Chain,,29,BBA,5/27/2016,54095,4,No,90,9,16,4.1,76
+emp574,Raghava Bhakta,Legal,,23,B.Tech,2/11/2016,64378,1,No,75,5,40,3,58
+emp575,Gnyana Murti,Public Relations (PR),,45,MBA,1/5/2020,29217,15,No,90,5,42,4.6,74
+emp576,Bhima Shaktidhara,Training and Development,,34,BBA,11/29/2021,60873,1,No,83,6,34,4.2,70
+emp577,Dukhahara,Business Development,,30,MBA,4/6/2024,32608,8,No,83,1,32,4.1,57
+emp578,Ramdoot Shresth,Maintenance,,36,MCA,12/22/2023,84760,7,Yes,100,4,38,3.8,67
+emp579,Parama Tapasvi,Security,,21,M.Tech,3/26/2020,65982,13,No,92,8,42,4.5,81
+emp580,Tejasvi,Design / Creative,,33,BBA,7/15/2017,28477,3,No,93,2,20,4.8,65
+emp581,Satyarupa,Human Resources (HR),,33,B.Tech,8/28/2020,80473,14,No,77,5,50,4.9,74
+emp582,Sita Ram Priya,Finance,,30,MCA,8/31/2021,57079,13,No,95,1,43,3.5,57
+emp583,Dharma Palak,Sales,,30,MCA,6/6/2020,71797,6,Yes,89,10,22,2.8,70
+emp584,Shree Kapishwar,Marketing,,26,B.Com,11/7/2024,41717,1,Yes,86,5,5,3.2,57
+emp585,Ananda,Information Technology (IT),,31,B.Tech,11/26/2023,47365,15,No,82,5,5,4.4,65
+emp586,Jaya Praneta,Administration,,20,M.Tech,8/27/2023,25332,3,No,96,3,18,4.2,64
+emp587,Karunamay,Operations,,38,B.Com,4/14/2015,28096,2,No,96,8,5,3.6,70
+emp588,Dayadhara,Customer Service,,44,MCA,3/19/2016,70325,4,No,85,5,45,4.4,71
+emp589,Bala Prabhu,Research and Development (R&D),,28,MBA,3/5/2023,50262,12,Yes,90,5,38,2.7,60
+emp590,Sankata Vimochaka,Procurement / Purchase,,40,BBA,3/4/2023,32443,11,No,94,10,22,4.9,86
+emp591,Mangala,Production / Manufacturing,,36,B.Com,10/3/2017,64955,10,No,96,6,44,3.7,72
+emp592,Satyapratigna,Quality Assurance (QA),,43,B.Tech,6/3/2018,38182,8,No,92,1,47,4.9,67
+emp593,Raghava Raksha Karaka,Logistics / Supply Chain,,23,B.Com,9/6/2020,77672,1,No,70,10,46,3.7,75
+emp594,Punya Koti,Legal,,34,M.Tech,9/9/2019,49913,1,Yes,78,4,46,3.3,60
+emp595,Sita Pujita,Public Relations (PR),,40,BBA,10/14/2018,54233,6,No,71,9,16,3.2,65
+emp596,Rama Bhakta Hanuman,Training and Development,,40,MCA,5/16/2016,71555,9,No,77,1,46,4.7,62
+emp597,Rama Doot Hanuman,Business Development,,27,M.Tech,11/20/2020,78192,3,Yes,98,7,18,2.8,64
+emp598,Sita Sahaya Hanuman,Maintenance,,44,M.Tech,8/6/2021,58473,14,No,85,2,37,4.4,63
+emp599,Raghupati Bhakta Hanuman,Security,,29,MCA,8/2/2022,72911,15,No,97,9,23,4.3,80
+emp600,Sankat Mochan Hanuman,Design / Creative,,38,BBA,7/27/2022,70540,7,Yes,85,10,10,4.4,79
+emp601,Ganesha,Human Resources (HR),,38,B.Com,10/21/2021,70293,3,No,93,5,44,2.9,63
+emp602,Ganapati,Finance,,40,B.Com,5/29/2021,27200,1,No,99,1,6,4.8,62
+emp603,Vinayaka,Sales,,28,MCA,2/26/2017,74804,2,No,78,3,13,4,57
+emp604,Vighneshwara,Marketing,,39,MBA,6/5/2017,78933,13,No,79,6,22,3.7,64
+emp605,Vighnaharta,Information Technology (IT),,20,BBA,8/26/2024,32092,13,No,95,7,33,2.7,65
+emp606,Ekadanta,Administration,,31,M.Tech,10/21/2021,83012,1,No,83,10,41,4.8,86
+emp607,Lambodara,Operations,,40,MCA,9/3/2017,45686,4,Yes,79,5,37,4.9,72
+emp608,Gaj?nana,Customer Service,,34,B.Com,6/11/2021,27390,15,No,100,10,49,2.7,76
+emp609,Siddhivinayaka,Research and Development (R&D),,22,M.Tech,10/29/2021,58586,11,No,94,5,21,4.2,69
+emp610,Sumukha,Procurement / Purchase,,40,BBA,5/15/2023,77687,14,No,86,10,17,4.9,83
+emp611,Kapila,Production / Manufacturing,,26,BBA,1/6/2015,41220,10,No,83,2,40,4.8,65
+emp612,Gajakarna,Quality Assurance (QA),,21,MCA,3/23/2024,70631,6,No,79,6,10,4.6,68
+emp613,Vakratunda,Logistics / Supply Chain,,36,M.Tech,1/27/2019,40868,3,No,82,10,5,2.8,66
+emp614,Heramba,Legal,,25,BBA,8/14/2021,83045,8,No,84,2,20,3.3,52
+emp615,Skandapurvaja,Public Relations (PR),,43,MCA,1/30/2015,78838,5,Yes,82,3,42,3.9,62
+emp616,Surpakarna,Training and Development,,29,M.Tech,3/19/2024,63152,14,Yes,74,10,37,3.8,76
+emp617,Vighnaraja,Business Development,,26,MCA,3/29/2024,51023,6,Yes,87,6,27,4.9,75
+emp618,Dhoomraketu,Maintenance,,27,MBA,10/10/2021,38476,9,Yes,91,6,31,2.6,61
+emp619,Shubh?nana,Security,,38,B.Com,3/8/2016,64947,10,Yes,91,4,8,2.8,54
+emp620,Ping?ksha,Design / Creative,,23,BBA,1/22/2016,70812,12,Yes,71,8,23,2.7,60
+emp621,Gauriputra,Human Resources (HR),,20,B.Tech,1/21/2016,39904,2,No,80,9,36,4.7,81
+emp622,Krishnapingaksha,Finance,,40,BBA,12/1/2022,52898,6,No,82,5,49,3.7,66
+emp623,Bh?lachandra,Sales,,21,MBA,1/7/2020,46787,7,Yes,94,9,50,3.7,79
+emp624,Chaturbhuj?,Marketing,,31,M.Tech,8/6/2016,65754,9,No,87,10,5,3.2,70
+emp625,Bhaktavighnavin?shana,Information Technology (IT),,26,B.Tech,6/23/2020,38244,14,Yes,70,1,38,3.8,52
+emp626,Sh?rpakarna,Administration,,43,MCA,1/29/2024,40860,1,No,85,8,13,4.3,73
+emp627,Avaneesh,Operations,,22,MCA,11/16/2023,37962,10,No,75,4,8,4.8,64
+emp628,Yagnak?ya,Customer Service,,41,BBA,2/18/2023,64655,2,Yes,83,4,50,2.8,58
+emp629,Bh?tapat?,Research and Development (R&D),,27,B.Com,9/1/2016,69973,13,No,80,10,13,4.7,80
+emp630,Shambhavi,Procurement / Purchase,,33,MBA,1/11/2019,37888,1,No,70,4,12,2.5,47
+emp631,Ish?putra,Production / Manufacturing,,20,MCA,1/17/2023,42570,14,No,74,10,46,4.9,85
+emp632,Swayambhu,Quality Assurance (QA),,27,B.Com,9/2/2015,59123,13,No,77,3,39,3,54
+emp633,Mangalmoorti,Logistics / Supply Chain,,44,M.Tech,10/24/2018,39714,12,No,76,1,37,4.2,56
+emp634,Kapidhvaja,Legal,,43,B.Tech,4/14/2017,45140,6,No,91,7,26,3.1,66
+emp635,Omkara,Public Relations (PR),,41,M.Tech,4/17/2022,40583,1,Yes,79,7,13,3.5,64
+emp636,Pramoda,Training and Development,,28,B.Tech,4/7/2018,57995,5,No,87,9,38,4.1,79
+emp637,Modaka-priya,Business Development,,41,B.Tech,8/14/2022,53824,10,No,70,2,30,2.8,47
+emp638,Siddhid?ta,Maintenance,,27,B.Com,3/30/2016,72301,14,No,95,2,23,4.4,63
+emp639,Buddhipriya,Security,,21,B.Tech,4/5/2021,74566,3,No,77,9,6,3.5,67
+emp640,Bhav?nanda,Design / Creative,,27,BBA,1/3/2015,29078,11,No,72,3,49,4.4,64
+emp641,Durbhikkhahara,Human Resources (HR),,38,MBA,10/21/2023,83614,6,No,81,8,24,3.3,67
+emp642,Nidheshwara,Finance,,42,BBA,12/29/2019,60670,13,No,91,5,16,3.6,63
+emp643,Shreeman,Sales,,29,B.Com,5/11/2017,45424,14,No,79,10,8,4.1,75
+emp644,Haridra-varna,Marketing,,41,M.Tech,1/11/2020,64250,1,No,73,10,47,2.7,69
+emp645,Mangala,Information Technology (IT),,37,B.Com,8/17/2023,82770,2,No,87,6,16,3.6,64
+emp646,Krip?kara,Administration,,28,MBA,3/11/2023,45644,14,Yes,88,6,7,4.1,67
+emp647,Vighn?ntaka,Operations,,26,M.Tech,11/12/2019,56384,8,Yes,76,9,20,2.9,65
+emp648,Gun?t?ta,Customer Service,,41,BBA,5/5/2020,58869,3,Yes,99,4,44,4.6,74
+emp649,K?mar?pa,Research and Development (R&D),,37,MCA,5/17/2016,51917,8,Yes,87,8,35,4.1,76
+emp650,K?ryasiddhi-prad?yaka,Procurement / Purchase,,44,B.Tech,8/9/2020,54168,13,Yes,70,2,44,3.4,53
+emp651,Sarvatra-sundara,Production / Manufacturing,,44,B.Com,6/14/2018,39958,7,No,100,5,26,3.6,67
+emp652,Daya-nidhi,Quality Assurance (QA),,22,B.Com,9/15/2015,50999,13,No,84,7,43,2.7,64
+emp653,??nta,Logistics / Supply Chain,,41,BBA,2/22/2021,82589,6,No,90,9,15,4.9,82
+emp654,Prabhu,Legal,,23,MCA,5/18/2018,62715,15,No,99,10,13,4.7,85
+emp655,Mah?k?ya,Public Relations (PR),,29,B.Tech,9/26/2019,80196,3,Yes,85,9,21,4.1,76
+emp656,Bh?ma,Training and Development,,31,MCA,1/1/2023,39881,12,No,89,8,28,4.2,76
+emp657,Shubh-labha-prada,Business Development,,39,MBA,6/11/2021,54671,15,No,98,6,6,5,75
+emp658,?khu-v?hana,Maintenance,,43,BBA,4/28/2020,77055,7,No,85,7,29,2.7,62
+emp659,Sumukha-priya,Security,,40,MBA,2/26/2019,32510,11,No,80,5,37,4.9,72
+emp660,Sureshvara,Design / Creative,,34,MBA,4/16/2019,31370,14,Yes,80,9,36,3.6,73
+emp661,Sarva-vighna-har?,Human Resources (HR),,43,B.Com,12/2/2017,45752,8,No,95,8,10,4.3,75
+emp662,Vin?yakeshvara,Finance,,28,B.Com,5/13/2015,53375,6,No,86,6,22,3,61
+emp663,Deva-vandan?ya,Sales,,24,B.Tech,8/5/2020,41164,6,Yes,92,5,32,2.8,60
+emp664,Bh?ta-bh?vana,Marketing,,36,B.Com,6/5/2022,80547,8,No,97,9,29,4.3,81
+emp665,Gan?dhipa,Information Technology (IT),,33,B.Com,8/18/2015,49465,11,No,74,4,14,3.6,56
+emp666,Dev?n?m-priya,Administration,,42,B.Tech,8/23/2018,40057,5,No,74,10,44,4,78
+emp667,Ishvara,Operations,,35,B.Com,3/26/2020,75885,7,No,88,4,13,4.6,66
+emp668,Mah?-pr?jña,Customer Service,,20,MBA,8/25/2020,84898,13,No,94,2,21,4,60
+emp669,Mah?-bala,Research and Development (R&D),,31,M.Tech,10/18/2021,60696,4,No,74,3,5,4.8,60
+emp670,Sarva-kartr?,Procurement / Purchase,,26,MCA,11/18/2016,61774,10,No,95,2,45,4.5,67
+emp671,Shubhak?r?,Production / Manufacturing,,25,MBA,7/30/2015,69111,5,No,79,9,21,3.1,67
+emp672,Shubha-daata,Quality Assurance (QA),,33,MBA,9/27/2022,34289,7,Yes,83,2,38,3.8,58
+emp673,Manomaya,Logistics / Supply Chain,,25,BBA,9/11/2020,69592,11,No,79,7,34,3.8,69
+emp674,K?rya-m?rga-prad?yaka,Legal,,34,MBA,10/25/2019,61735,7,Yes,77,7,40,3,64
+emp675,Kshipra-pras?da,Public Relations (PR),,21,B.Tech,12/18/2020,66467,3,Yes,76,1,40,3.6,53
+emp676,Kshipra-kar?,Training and Development,,38,B.Com,8/6/2019,71095,15,No,80,9,12,3.1,66
+emp677,Mangala-dayaka,Business Development,,26,M.Tech,3/30/2020,54201,14,No,100,2,36,3.8,62
+emp678,Shubha-k?ra,Maintenance,,24,MBA,3/9/2023,31393,15,No,97,4,40,4.3,70
+emp679,Vara-daata,Security,,31,B.Tech,2/14/2021,47474,8,No,98,6,49,3.9,74
+emp680,Vara-prad?yaka,Design / Creative,,22,MCA,3/9/2021,62803,6,No,99,2,23,3.2,56
+emp681,Dharma-rakshaka,Human Resources (HR),,24,MBA,4/11/2015,45014,10,No,79,5,49,4.4,70
+emp682,Yog?sha,Finance,,42,MBA,2/4/2015,54003,13,No,88,7,11,3.5,66
+emp683,Sarva-jñ?na-dayaka,Sales,,38,MCA,7/18/2023,74894,1,Yes,98,5,42,3,64
+emp684,Pramoda-bhakta-priya,Marketing,,44,MCA,2/6/2018,39920,15,No,79,10,19,3.5,72
+emp685,Bhakta-v?tsala,Information Technology (IT),,41,B.Com,8/12/2019,41441,1,No,79,8,46,2.9,67
+emp686,Sarva-deva-namask?ta,Administration,,30,B.Com,8/6/2024,71463,7,Yes,90,9,18,2.7,67
+emp687,Vishvar?pa,Operations,,45,MCA,5/9/2021,78930,10,Yes,81,9,31,2.8,67
+emp688,Brahma-putra,Customer Service,,22,MBA,2/21/2016,67228,8,No,97,7,24,4.3,75
+emp689,Parashakti-dh?ra,Research and Development (R&D),,31,B.Com,6/2/2018,52833,13,No,80,10,24,3.8,75
+emp690,Vidy?-dayaka,Procurement / Purchase,,35,B.Com,5/10/2016,59972,15,No,82,8,17,3.2,65
+emp691,Vighna-niv?raka,Production / Manufacturing,,28,MBA,4/22/2015,82533,12,No,98,9,34,4.3,82
+emp692,Vighna-n?sha,Quality Assurance (QA),,40,M.Tech,4/27/2023,41110,15,No,91,9,31,3.1,72
+emp693,Mah?-tejasv?,Logistics / Supply Chain,,37,B.Tech,10/3/2015,46686,12,Yes,99,4,30,4.7,72
+emp694,Krip?-murti,Legal,,30,MCA,10/5/2017,60783,4,No,78,8,45,2.6,64
+emp695,Jaya-prada,Public Relations (PR),,23,BBA,6/8/2022,49430,14,No,99,3,6,4.4,64
+emp696,Karun?nidhi,Training and Development,,23,BBA,9/6/2022,83042,6,No,82,7,30,2.5,60
+emp697,Gaur?-nandana,Business Development,,32,M.Tech,10/28/2019,60918,10,No,84,8,5,3.7,68
+emp698,Shakti-dhara,Maintenance,,36,BBA,6/27/2016,37821,6,No,80,5,45,3.8,66
+emp699,,Security,,23,MCA,4/24/2020,68367,12,No,95,8,37,4.6,82
+emp700,,Design / Creative,,21,BBA,9/2/2016,66490,12,No,77,5,20,5,70
+,,Human Resources (HR),,43,MCA,4/28/2016,31538,15,,,,,,
+,,Finance,,33,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
